@@ -2,7 +2,7 @@ import logo from "../assets/shinjitsu-dm-s.png";
 import Image from "next/image";
 import Head from "next/head";
 import Footer from "../components/footer";
-import Typewriter from "../components/Typewriter";
+import Typewriter from "../components/typewriter";
 
 export default function Home() {
   return (
